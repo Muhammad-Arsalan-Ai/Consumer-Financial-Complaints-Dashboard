@@ -34,5 +34,3 @@ This project is designed to provide insights into consumer financial complaints 
 ![Screenshot from 2023-11-11 19-05-02](https://github.com/qadeerbangash/ConsumerFinancialComplaints/assets/64665560/abd305da-153d-4c6d-a709-53f1e0ee8a18)
 
 
-## App Link:
-	https://appassignment-complains.streamlit.app/
